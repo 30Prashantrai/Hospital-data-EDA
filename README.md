@@ -1,5 +1,5 @@
 # Hospital-data-EDA
-This is the shortest code method of doing EDA  created using pandas profiling in python and I have applied it on the hospital dataset of my own.
+This is the shortest code method of doing EDA  created using pandas profiling in python and I have applied it on the hospital dataset of my own
 
 
 import pandas as pd
